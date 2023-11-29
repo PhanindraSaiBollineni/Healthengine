@@ -57,8 +57,7 @@ conda install git
 **Now, we're ready to create our local environment!**
 
 1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
-```
-https://github.com/aaryapatel007/Patient-Selection-for-Diabetes-Drug-Testing.git
+```https://github.com/PhanindraSaiBollineni/Healthengine.git
 ```
 
 2. Create (and activate) a new environment, named ` ehr-env` with Python 3.7. If prompted to proceed with the install `(Proceed [y]/n)` type y.
